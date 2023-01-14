@@ -17,7 +17,7 @@ Beyond designing, coding and collaborating on personal and professional projects
 
 <br>
 
-### 🔗  Connect with Me
+## 🔗  Connect with Me
 
 
 <a href="https://linkedin.com/in/timbanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Logo" height="30" width="40" /></a><a href="https://instagram.com/bantabanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Logo" height="30" width="40" /></a>
